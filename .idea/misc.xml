@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Kotlin_Apps/clinicApp/app/src/main/res/drawable/ic_icon.xml" value="0.267" />
+        <entry key="..\:/Kotlin_Apps/clinicApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.206" />
+        <entry key="..\:/Kotlin_Apps/clinicApp/app/src/main/res/drawable/ic_pocketclinic__1_.xml" value="0.196" />
+        <entry key="..\:/Kotlin_Apps/clinicApp/app/src/main/res/drawable/pocketclinic.xml" value="0.267" />
+        <entry key="..\:/Kotlin_Apps/clinicApp/app/src/main/res/drawable/splashscreen.xml" value="0.206" />
+        <entry key="..\:/Kotlin_Apps/clinicApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Kotlin_Apps/clinicApp/app/src/main/res/layout/activity_principal.xml" value="0.358695652173913" />
+        <entry key="..\:/Kotlin_Apps/clinicApp/app/src/main/res/layout/activity_splash.xml" value="0.18802083333333333" />
         <entry key="..\:/Kotlin_Apps/clinicApp/app/src/main/res/layout/content_main.xml" value="0.18802083333333333" />
       </map>
     </option>
